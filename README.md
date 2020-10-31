@@ -15,3 +15,6 @@ This system can therefore be used in real-time applications which require face-m
 5. opencv-python==4.2.0.*
 6. matplotlib==3.2.1
 7. scipy==1.4.1
+
+## Plot
+![alt text](https://github.com/YogithGT/FaceMask_Detection/blob/master/plot.png)
